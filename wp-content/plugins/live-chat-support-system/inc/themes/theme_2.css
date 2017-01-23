@@ -1,0 +1,35 @@
+.chat_container .chat_window_k .chat_panel .chat_panel_body {
+	clear: both;
+}
+.chat_container .chat_window_k .chat_panel .chat_panel_heading {
+	float:left;
+	border-radius: 5px 5px 0px 0px;
+	-moz-border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+	-ms-border-radius: 5px 5px 0px 0px;
+	-o-border-radius: 5px 5px 0px 0px;
+}
+.chat_container .chat_window_k .chat_panel {
+	border: none;
+}
+.chat_container .chat_window_k .chat_panel .chat_panel_body {
+	clear: both;
+	border: 6px solid #0077ad;
+	border-bottom: none;
+	border-radius: 0px 5px 0px 0px;
+	-moz-border-radius: 0px 5px 0px 0px;
+	-webkit-border-radius: 0px 5px 0px 0px;
+	-ms-border-radius: 0px 5px 0px 0px;
+	-o-border-radius: 0px 5px 0px 0px;
+}
+.chat_container .chat_window_k .chat_panel .chat_panel_footer {
+	background: #0077ad;
+	border-top: 1px solid #0e85bb;
+}
+.chat_container .chat_window_k .chat_panel .chat_panel_footer .attach_dv #file_browse_wrapper {
+	width: 15px;
+	height: 14px;
+	background: url('../img/icon-upload-white.png') no-repeat;
+	border: none;
+	overflow: hidden;
+}

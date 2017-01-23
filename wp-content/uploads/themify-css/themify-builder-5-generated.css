@@ -1,0 +1,119 @@
+/* .themify_builder_5_row.module_row_0 Style */
+.themify_builder_5_row.module_row_0.module_row {
+	background-image: url(http://localhost/wordpress-4.7.1/wordpress/wp-content/uploads/2017/01/block3-1024x683.jpg);
+	font-size: 20px;
+	text-align: center;
+	color: #ffffff;
+	padding-top : 13%;
+	padding-bottom : 13%
+}
+.themify_builder_5_row.module_row_0.module_row h1 {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row h2 {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row h3:not(.module-title) {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row h4 {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row h5 {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row h6 {
+	color: #ffffff
+}
+.themify_builder_5_row.module_row_0.module_row>.builder_row_cover {
+	background:rgba(0,0,0, 0.00)
+}
+
+.themify_builder .text-5-0-0-1.module.module-text h2 { color: #ffffff;  } 
+.themify_builder .text-5-0-0-2.module-text { font-size: 24px; margin-top: -2%;  } 
+.themify_builder .text-5-0-0-3.module-text { font-size: 24px; margin-top: -2%;  } 
+.themify_builder .buttons-5-0-0-4 div.module-buttons { font-family: Arial, Helvetica, sans-serif; margin-top: -2%; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;  } 
+.themify_builder .buttons-5-0-0-4div.module-buttons { color: #ffffffff;  } 
+.themify_builder .buttons-5-0-0-4 .module-buttons .module-buttons-item a { background-color: #141212; color: #ffffff; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;  } 
+.themify_builder .buttons-5-0-0-4 .module-buttons .module-buttons-item a:hover { background-color: #f1c40f; color: #ffffffff;  } 
+/* .themify_builder_5_row.module_row_1 Style */
+.themify_builder_5_row.module_row_1.module_row {
+	background-color: #f6f6f6;
+	padding-top : 4%
+}
+
+/* .module_row_1 .module_column_0.tb_5_column Style */
+.module_row_1 .module_column_0.tb_5_column.module_column {
+	padding-top : 5px
+}
+
+.themify_builder .text-5-1-0-1.module-text { font-family: Arial, Helvetica, sans-serif; margin-top: 5px;  } 
+.themify_builder .text-5-1-0-1.module-text h1 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-0-1.module-text h2 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-0-1.module-text h3:not(.module-title) { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-0-1.module-text h4 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-0-1.module-text h5 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-0-1.module-text h6 { font-family: Arial, Helvetica, sans-serif;  } 
+/* .module_row_1 .module_column_1.tb_5_column Style */
+.module_row_1 .module_column_1.tb_5_column.module_column {
+	padding-top : 5px
+}
+
+.themify_builder .text-5-1-1-1.module-text { font-family: Arial, Helvetica, sans-serif; margin-top: 5px;  } 
+.themify_builder .text-5-1-1-1.module-text h1 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-1-1.module-text h2 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-1-1.module-text h3:not(.module-title) { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-1-1.module-text h4 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-1-1.module-text h5 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-1-1-1.module-text h6 { font-family: Arial, Helvetica, sans-serif;  } 
+/* .themify_builder_5_row.module_row_2 Style */
+.themify_builder_5_row.module_row_2.module_row {
+	background-color: #f6f6f6;
+	padding-top : 2%
+}
+
+.themify_builder .text-5-2-0-1.module-text { font-family: Arial, Helvetica, sans-serif; margin-top: 5px;  } 
+.themify_builder .text-5-2-0-1.module-text h1 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-2-0-1.module-text h2 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-2-0-1.module-text h3:not(.module-title) { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-2-0-1.module-text h4 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-2-0-1.module-text h5 { font-family: Arial, Helvetica, sans-serif;  } 
+.themify_builder .text-5-2-0-1.module-text h6 { font-family: Arial, Helvetica, sans-serif;  } 
+/* .module_row_2 .module_column_1.tb_5_column Style */
+.module_row_2 .module_column_1.tb_5_column.module_column {
+	padding-left : 5px
+}
+
+.themify_builder .image-5-2-1-1.module-image { margin-top: 5px; margin-left: 15px;  } 
+/* .themify_builder_5_row.module_row_3 Style */
+.themify_builder_5_row.module_row_3.module_row {
+	background-color: #f1c40f
+}
+
+.themify_builder .text-5-3-0-1.module-text { font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-align: center; padding-top: 2%;  } 
+.themify_builder .text-5-3-0-1.module-text h1 { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-1.module-text h2 { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-1.module-text h3:not(.module-title) { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-1.module-text h4 { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-1.module-text h5 { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-1.module-text h6 { font-family: Arial, Helvetica, sans-serif; color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text { color: #ffffff; font-size: 24px; text-align: center; padding-top: -2%; padding-right: -2%; padding-bottom: -2%; padding-left: -2%;  } 
+.themify_builder .text-5-3-0-2.module-text h1 { color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text h2 { color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text h3:not(.module-title) { color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text h4 { color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text h5 { color: #ffffff;  } 
+.themify_builder .text-5-3-0-2.module-text h6 { color: #ffffff;  } 
+.themify_builder .gallery-5-3-0-3.module-gallery { background-color: #f1c40f; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 20px; text-align: center; padding-top: -2%; padding-right: 3px; padding-bottom: 2%; padding-left: 3px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;  } 
+/* .themify_builder_5_row.module_row_4 Style */
+.themify_builder_5_row.module_row_4.module_row {
+	background-color: #ffffff
+}
+
+.themify_builder .slider-5-4-0-1.module-slider { padding-top: 3%;  } 
+.themify_builder .buttons-5-4-0-2 div.module-buttons { text-align: center; padding-top: -2px; padding-bottom: 2%;  } 
+.themify_builder .buttons-5-4-0-2 div.module-buttons i { font-size: 24px;  } 
+.themify_builder .buttons-5-4-0-2 div.module-buttons a { font-size: 24px;  } 
+.themify_builder .buttons-5-4-0-2 div.module-buttons span { font-size: 24px;  } 
+.themify_builder .buttons-5-4-0-2 .module-buttons .module-buttons-item a { background-color: #141212; color: #ffffff; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;  } 
+.themify_builder .buttons-5-4-0-2 .module-buttons .module-buttons-item a:hover { background-color: #f1c40f; color: #ffffff;  } 
